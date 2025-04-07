@@ -17,3 +17,19 @@ Bot confirms the order
 
 Done ✅
 ```
+---
+### `project-3`
+### 🤖 Quiz Bot Code
+```
+📝 Quiz Bot – What It Does:
+User sends /quiz
+
+Bot asks a question with multiple-choice buttons
+
+User clicks an answer
+
+Bot says whether it’s correct or not
+
+Ends the quiz or goes to the next question
+```
+---
